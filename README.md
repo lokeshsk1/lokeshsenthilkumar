@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  ‍💻  Full Stack Developer
+#  ‍💻  Full Stack Developer
 
 Hi I'm Lokesh, a passionate Full Stack Developer from India
 
-# I'm passionate about:
+### I'm passionate about:
 
-<li> Web development
+  <li> Web Development
+  <li> Graphic Design
+  <li> Android Development
+ 
