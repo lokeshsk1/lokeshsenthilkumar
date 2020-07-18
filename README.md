@@ -20,7 +20,7 @@ Hi I'm Lokesh, a passionate Full Stack Developer from India
 
 ### I'm passionate about:
 
-<li> Web Development
-<li> Graphic Design
-<li> Android Development
+- Web Development
+- Graphic Design
+- Android Development
  
