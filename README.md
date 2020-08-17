@@ -24,3 +24,4 @@ Hi I'm Lokesh, a passionate Full Stack Developer from India
 - Graphic Design
 - Android Development
  
+[![Lokesh's github stats](https://github-readme-stats.vercel.app/api?username=lokeshsenthil&show_icons=true&title_color=151515&icon_color=79ff97&text_color=151515f&bg_color=fff)](https://github.com/lokeshsenthil)
