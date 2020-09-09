@@ -1,7 +1,4 @@
 <p align="center">
-  <a title="DEV.to" href="https://dev.to/cmcodes">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
-  </a>
   <a title="Instagram" href="https://instagram.com/lokesh.senthilkumar">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="50" height="50" />
   </a>
