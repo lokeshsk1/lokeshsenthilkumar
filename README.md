@@ -19,6 +19,6 @@
   </a>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshsenthil&count_private=true&show_icons=true" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsenthil&layout=compact" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshsenthilkumar&count_private=true&show_icons=true" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsenthilkumar&layout=compact" height="170px">
 </p>
