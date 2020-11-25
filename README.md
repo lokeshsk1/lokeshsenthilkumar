@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Lokesh</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=progrrammerraja" alt="progrrammerraja" /> </p>
-<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lokeshsenthilkumar" alt="lokeshsenthilkumar" /> </p>
 
 
 <img src="https://github.com/lokeshsenthilkumar/lokeshsenthilkumar/blob/master/linkedin_banner.png" />
