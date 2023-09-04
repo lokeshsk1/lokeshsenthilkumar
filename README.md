@@ -5,9 +5,9 @@
 
 
 <!-- <img src="https://github.com/lokeshsenthilkumar/lokeshsenthilkumar/blob/master/linkedin_banner.png" /> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lokeshsenthilkumar&count_private=true&show_icons=true" height="170px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsenthilkumar&layout=compact" height="170px">
-</p>
+</p> -->
 
 
